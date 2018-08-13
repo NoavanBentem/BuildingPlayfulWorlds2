@@ -1,0 +1,2 @@
+/Users/noavanbentem/Documents/Building Playful Worlds/ZigZag/ZigZag/Temp/UnityVS_obj/Debug/ZigZag.csprojResolveAssemblyReference.cache
+/Users/noavanbentem/Documents/Building Playful Worlds/ZigZag/ZigZag/Temp/UnityVS_obj/Debug/ZigZag.csproj.CoreCompileInputs.cache
